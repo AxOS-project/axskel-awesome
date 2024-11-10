@@ -1,0 +1,14 @@
+{
+	"batt": "BAT0",
+	"color": "AxOS",
+	"font": "Roboto Bold 11",
+	"fontalt": "Roboto Italic Bold 11",
+	"fonticon": "Material Icons 13",
+	"mod": "Mod4",
+	"passwd": "axos",
+	"reboot": "systemctl reboot",
+	"sessionlock": false,
+	"shotdir": "~/Images",
+	"shutdown": "systemctl poweroff",
+	"terminal": "alacritty"
+}

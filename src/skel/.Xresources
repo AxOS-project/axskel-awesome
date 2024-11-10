@@ -1,0 +1,51 @@
+#define BG #202020
+#define FG #E8E3E3
+#define BL #0D0D0D
+#define WH #FFFFFF
+#define R #AC1412
+#define G #90A959
+#define Y #F4BF75
+#define B #6A9FB5
+#define M #AA759F
+#define C #75B5AA
+
+
+st.font: RobotoMono:size=11
+st.borderpx: 25
+
+! special
+*.foreground:   FG
+*.background:   BG
+*.cursorColor:  FG
+
+! black
+*.color0:       BL
+*.color8:       BL
+
+! red
+*.color1:       R
+*.color9:       R
+
+! green
+*.color2:       G
+*.color10:      G
+
+! yellow
+*.color3:       Y
+*.color11:      Y
+
+! blue
+*.color4:       B
+*.color12:      B
+
+! magenta
+*.color5:       M
+*.color13:      M
+
+! cyan
+*.color6:       C
+*.color14:      C
+
+! white
+*.color7:       WH
+*.color15:      WH

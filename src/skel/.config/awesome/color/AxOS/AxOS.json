@@ -1,0 +1,20 @@
+{
+	"bg": "#0d0d0d",
+	"bgalt": "#303030",
+	"bgmid": "#202020",
+	"black": "#191414",
+	"blue": "#6a9fb5",
+	"compoffset": "-25",
+	"compopacity": ".5",
+	"compradius": "25",
+	"cyan": "#75b5aa",
+	"fg": "#f5f5f5",
+	"green": "#90a959",
+	"gtk": "dark",
+	"icons": "Papirus-Dark",
+	"magenta": "#aa759f",
+	"red": "#ac4142",
+	"wall": "color/AxOS/AxOS.png",
+	"white": "#ffffff",
+	"yellow": "#f4bf75"
+}

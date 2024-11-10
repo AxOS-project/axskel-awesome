@@ -1,0 +1,6 @@
+[
+	{
+		"class": "firefox",
+		"exec": "/usr/lib/firefox/firefox"
+	}
+]
