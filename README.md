@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Repository archived for the new Calla repo
+
 # axskel-awesome
 
 `axskel-awesome` is a custom desktop environment setup, featuring the **Calla** desktop environment and pre-configured AxAwEd settings. This package includes configurations for **Calla**, alongside several enhancements for usability, aesthetics, and functionality.
